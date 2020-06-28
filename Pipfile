@@ -9,6 +9,7 @@ verify_ssl = true
 django = "*"
 pillow = "*"
 django-braces = "*"
+django-embed-video = "*"
 
 [requires]
 python_version = "3.8"
