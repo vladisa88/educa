@@ -13,6 +13,8 @@ django-embed-video = "*"
 python-memcached = "==1.59"
 django-memcache-status = "==2.2"
 django-rest-framework = "*"
+psycopg2-binary = "*"
+uwsgi = "*"
 
 [requires]
 python_version = "3.8"
